@@ -1,4 +1,5 @@
 # Portfolio
 
 #Few words about me
+
 My name is Robin Kitlinski. I am an IT technician who is exploring further the world of possibilites within my profession. I've been living for almost 5 years in Scotland, where I've been studying and working as a Web Developer & Designer. I have overall knowledge of how to & not to create websites, although it hasn't got my full attention, since I've discovered something more interesting and closer to my heart. Whenever I was creating a website I always get myself disappointed or even angry that me & partially my team didn't have enough time to test the website. Depending on the complexity of the build it always been a challenge to test througout the website... Just as advequate would be quoting here one of the Seven testing principles which says that: "Exhaustive testing isn't possible...". Though, it would save me & company I worked for, time, money and even relation with the client. That's how I understood how important, crucial and interesting testing is! So here am I, diving deep into software testing & automation. Below I'd love to share with you some of my experience and recent studies and researches within this area.
